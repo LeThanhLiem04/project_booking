@@ -207,22 +207,9 @@ npm start
   - Thống kê doanh thu theo thời gian
   - Quản lý trạng thái thanh toán
 
-## 🤝 Đóng góp
-
-1. Fork dự án
-2. Tạo feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
-
-## 📄 License
-
-Dự án này được phát hành dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
-
 ## 📞 Liên hệ
 
-- Email: [your-email@example.com]
-- GitHub: [your-github-username]
+- Email: [liem10042004@gmail.com]
 
 ---
 
